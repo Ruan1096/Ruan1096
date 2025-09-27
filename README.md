@@ -1,16 +1,14 @@
-# Olá, eu sou o Ruan! 👋
+Olá! Eu sou o Ruan 👋
 
-<!--
-**Ruan1096/Ruan1096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, focado em criar soluções práticas e funcionais com a Tríade Web: HTML, CSS e JavaScript.
 
-Here are some ideas to get you started:
+🚀 Atualmente, estou empenhado em construir a lógica e a manipulação de DOM para solidificar minha base em **JavaScript**. Meus projetos fixados, como a **Calculadora** e o **Relógio**, refletem esse foco no treino.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Meu próximo passo é começar a explorar frameworks Front-end, como o React, para dar um salto em complexidade e escalabilidade.
+
+---
+
+Fale comigo:
+
+📧 [ruanreis1996@gmail.com]
+🔗 [www.linkedin.com/in/ruan-reis-tavares-0957aa201/]
