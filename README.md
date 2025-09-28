@@ -1,14 +1,79 @@
-Olá! Eu sou o Ruan 
+ # 👨‍💻 Ruan Reis
 
-Desenvolvedor em formação, focado em criar soluções práticas e funcionais com a Tríade Web: HTML, CSS e JavaScript.
+**`Desenvolvedor FullStack`**
 
-Atualmente, estou empenhado em construir a lógica e a manipulação de DOM para solidificar minha base em **JavaScript**. Meus projetos fixados, como a **Calculadora** e o **Relógio**, refletem esse foco no treino.
+Me chamo Ruan Reis Tavares, tenho 29 anos e sou natural do Rio de Janeiro. Concluí o ensino médio, com o curso técnico em edificações e também sou formado em logistica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu no linkedin "[Ruan Reis](https://www.linkedin.com/in/ruan-reis-tavares-0957aa201/)",e também através do Instagram, com o perfil chamado "[reis.dev1996](https://www.instagram.com/reis.dev1996/)".
 
-Meu próximo passo é começar a explorar frameworks Front-end, como o React, para dar um salto em complexidade e escalabilidade.
+
+ 
 
 ---
 
-Fale comigo:
+### 🤖 Linguagens e Tecnologias
 
-📧 [ruanreis1996@gmail.com]
-🔗 [www.linkedin.com/in/ruan-reis-tavares-0957aa201/]
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+
+
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Ruan1096&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan1096&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+</p>
