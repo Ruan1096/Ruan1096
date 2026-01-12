@@ -1,6 +1,6 @@
  # 👨‍💻 Ruan Reis
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front end`**
 
 Eu me chamo Ruan Reis Tavares, tenho 29 anos e sou natural do Rio de Janeiro. Concluí o ensino médio, com o curso técnico em edificações e também sou formado em logistica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil no linkedin "[Ruan Reis](https://www.linkedin.com/in/ruan-reis-tavares-0957aa201/)",e também através do Instagram, com o perfil chamado "[reis.dev1996](https://www.instagram.com/reis.dev1996/)".
 
